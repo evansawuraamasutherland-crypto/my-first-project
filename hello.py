@@ -1,2 +1,2 @@
-print(hello ,git)
-print("I am learning Git")
+prinr("Hello from master")
+print("Hello from experiment")
